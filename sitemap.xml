@@ -5,50 +5,70 @@
   <url>
     <loc>https://www.bujinkannorthlondon.com/tags/bujinkan/</loc>
     <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bujinkannorthlondon.com/</loc>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.bujinkannorthlondon.com/post/</loc>
     <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.bujinkannorthlondon.com/tags/</loc>
     <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.bujinkannorthlondon.com/post/twentytwo/</loc>
     <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.bujinkannorthlondon.com/about/</loc>
     <lastmod>2020-01-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.bujinkannorthlondon.com/post/new-year/</loc>
     <lastmod>2020-01-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.bujinkannorthlondon.com/</loc>
-    <lastmod>2019-08-25T00:52:59+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.bujinkannorthlondon.com/post/hyperjapan/</loc>
     <lastmod>2019-06-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.bujinkannorthlondon.com/tags/hyperjapan/</loc>
     <lastmod>2019-06-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.bujinkannorthlondon.com/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
