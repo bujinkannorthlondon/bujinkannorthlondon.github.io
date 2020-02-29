@@ -4,28 +4,35 @@
   
   <url>
     <loc>https://www.bujinkannorthlondon.com/tags/bujinkan/</loc>
-    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.bujinkannorthlondon.com/</loc>
-    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.bujinkannorthlondon.com/post/</loc>
-    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.bujinkannorthlondon.com/tags/</loc>
-    <lastmod>2020-02-19T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bujinkannorthlondon.com/post/twentysix/</loc>
+    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
